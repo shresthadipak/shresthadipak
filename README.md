@@ -4,9 +4,9 @@ Hi! 👋 I'm Dipak Shrestha, a Machine Learning Engineer focused on developing c
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/shresthadipak?label=Follow%20%40me&style=social)
 
-![Dipak Shrestha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shresthadipak&show_icons=true)
+![Dipak Shrestha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shresthadipak&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthadipak&layout=compact)](https://github.com/Nix-code/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthadipak&show_icons=true&theme=dracula)](https://github.com/Nix-code/github-readme-stats)
 
 
 You can always checkout my [blog](https://www.shresthadipak.com.np/) and reach me by my email `shresthadipak2049@gmail.com`.
