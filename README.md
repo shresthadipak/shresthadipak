@@ -1,4 +1,4 @@
-Hi! 👋 I'm Dipak Shrestha, a Machine Learning Engineer focused on developing custom models on basis of real world problem statement by means of data and research paper. Research on artifical intelligence has been my passion since I started heard about ongoing automation and robotics engineering.
+Hi! 👋 I'm Dipak Shrestha, as a software developer, my profile statement would highlight my experience and skills in designing, developing, and implementing software solutions. I would emphasize my ability to analyze complex problems and develop innovative and efficient software solutions to meet business needs.
 
 ![https://shresthadipak.com.np](https://komarev.com/ghpvc/?username=shresthadipak) 
 
