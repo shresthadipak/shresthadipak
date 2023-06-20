@@ -1,4 +1,4 @@
-Hi! 👋 I'm Dipak Shrestha, as a software developer, my profile statement would highlight my experience and skills in designing, developing, and implementing software solutions. I would emphasize my ability to analyze complex problems and develop innovative and efficient software solutions to meet business needs.
+Hi! 👋 I'm Dipak Shrestha, as a software engineer, my profile statement would highlight my experience and skills in designing, developing, and implementing software solutions. I would emphasize my ability to analyze complex problems and develop innovative and efficient software solutions to meet business needs.
 
 ![https://shresthadipak.com.np](https://komarev.com/ghpvc/?username=shresthadipak) 
 
